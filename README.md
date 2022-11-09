@@ -21,17 +21,17 @@ const user = {
 ## Socials📝
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/viktor-georgakiev-891aa4254/"><img height="30" src="https://github.com/WIKSATA1337/WIKSATA1337/blob/main/linkedin.png">    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/viktor-georgakiev-891aa4254/"><img height="30" src="https://github.com/viktorgkw/viktorgkw/blob/main/linkedin.png">    </a>&nbsp;&nbsp;
     <p> Viktor Georgakiev </p>
 </div>
 
 <div align="center">
-    <a href="#"><img height="30" src="https://github.com/WIKSATA1337/WIKSATA1337/blob/main/discord.png"></a>&nbsp;&nbsp;
+    <a href="#"><img height="30" src="https://github.com/viktorgkw/viktorgkw/blob/main/discord.png"></a>&nbsp;&nbsp;
     <p> wiksata_gkw#3007 </p>
 </div>
 
 <div align="center">
-    <a href="#"><img height="30" src="https://github.com/WIKSATA1337/WIKSATA1337/blob/main/gmail.png"></a>&nbsp;&nbsp;
+    <a href="#"><img height="30" src="https://github.com/viktorgkw/viktorgkw/blob/main/gmail.png"></a>&nbsp;&nbsp;
     <p> viktorgkvbg@gmail.com </p>
 </div>
 
