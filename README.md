@@ -26,11 +26,6 @@ const user = {
 </div>
 
 <div align="center">
-    <a href="#"><img height="30" src="https://github.com/viktorgkw/viktorgkw/blob/main/discord.png"></a>&nbsp;&nbsp;
-    <p> wiksata_gkw#3007 </p>
-</div>
-
-<div align="center">
     <a href="#"><img height="30" src="https://github.com/viktorgkw/viktorgkw/blob/main/gmail.png"></a>&nbsp;&nbsp;
     <p> viktorgkvbg@gmail.com </p>
 </div>
