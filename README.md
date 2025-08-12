@@ -20,7 +20,7 @@ public sealed class SoftwareEngineer
 <h2 align="center">Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,py,c,cpp,cs,dotnet&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,cs,dotnet&theme=dark" />
   </a>
 </p>
 
@@ -34,14 +34,14 @@ public sealed class SoftwareEngineer
 <h2 align="center">Web Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,next&theme=dark" />
   </a>
 </p>
 
 <h2 align="center">Databases</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" />
   </a>
 </p>
 
